@@ -1,0 +1,6 @@
+﻿  pong.c
+C:\Users\97252\OneDrive\שולחן העבודה\pong\pong\pong.c(243,55): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\97252\OneDrive\שולחן העבודה\pong\pong\pong.c(241,77): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\97252\OneDrive\שולחן העבודה\pong\pong\pong.c(282,39): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\97252\OneDrive\שולחן העבודה\pong\pong\pong.c(283,31): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  pong.vcxproj -> C:\Users\97252\OneDrive\שולחן העבודה\pong\pong\x64\Debug\pong.exe

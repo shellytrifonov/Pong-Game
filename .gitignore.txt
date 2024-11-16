@@ -1,4 +1,22 @@
+# Build files
 *.o
 *.exe
 *.out
-.vscode/
+*.obj
+*.ilk
+*.pdb
+
+# Visual Studio files
+.vs/
+Debug/
+Release/
+x64/
+*.user
+*.suo
+*.db
+*.ipch
+*.log
+*.tlog
+*.lastbuildstate
+*.recipe
+*.idb

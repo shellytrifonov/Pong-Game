@@ -2,6 +2,10 @@
 
 A classic Pong game implementation in C using the Windows API (WinAPI). Play against an AI opponent in this recreation of the iconic arcade game.
 
+![image](https://github.com/user-attachments/assets/1ecf3754-f72d-4db0-840c-9c03ee349bd1)
+![image](https://github.com/user-attachments/assets/f3e1fc5d-aa0a-4aee-b626-ba9f116a7c01)
+
+
 ## Features
 
 - Clean, minimalist black and white design
